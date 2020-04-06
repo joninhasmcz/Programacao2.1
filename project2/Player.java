@@ -25,6 +25,6 @@ public class Player extends Employees
     }
     public void setFit(String fitEmployees)
     {
-        this.fitEmployees = fitEmployees
+        this.fitEmployees = fitEmployees;
     }
 }
