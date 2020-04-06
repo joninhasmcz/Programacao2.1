@@ -29,5 +29,13 @@ public class Fan extends Employees
     {
         this.fanvalueEmployees = fanvalueEmployees;
     }
+    public String getFanfit()
+    {
+        return fanfitEmployees;
+    }
+    public void setFanfit(String fanfitEmployees)
+    {
+        this.fanfitEmployees = fanfitEmployees;
+    }
 
 }
